@@ -1,5 +1,6 @@
-#Flags quiz Appication 
+# Flags quiz appication 
+
 A quiz game application 
 
-##About
-A Quiz application for about particule country and flags
+## About
+A quiz application for android about particule country and flags.
